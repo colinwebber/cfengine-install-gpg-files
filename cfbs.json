@@ -1,7 +1,0 @@
-{
-  "name": "install-gpg-files",
-  "description": "Download, optionally dearmor, and install one or more GNU Privacy Guard files.",
-  "type": "policy-set",
-  "git": true,
-  "build": []
-}
